@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomShimmerFrameLayout">
+        <attr name="baseColor" format="color" />
+        <attr name="highlightColor" format="color" />
+    </declare-styleable>
+
+</resources>
